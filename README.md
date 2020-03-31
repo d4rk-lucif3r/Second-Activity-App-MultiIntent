@@ -1,5 +1,5 @@
 # Second-Activity-Tutorial-Android-Studio by Arsh Anwar
-- (Tutorial)
+ (Tutorial)
 - Main activity consist of 3 buttons 
 - 1st for second activity,
 - 2nd for opening https://google.com ,
