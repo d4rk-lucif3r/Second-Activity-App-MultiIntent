@@ -1,4 +1,4 @@
-# Second-Activity-Tutorial-Android-Studio by Arsh Anwar
+# SecondActivity Tutorial in Android-Studio by Arsh Anwar
  (Tutorial)
 
 # Description
