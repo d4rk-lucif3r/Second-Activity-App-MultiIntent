@@ -1,5 +1,5 @@
-# SecondActivity Tutorial in Android-Studio by Arsh Anwar
- (Tutorial)
+# SecondActivity  in Android-Studio by Arsh Anwar
+- App with MultiActivity using different Intents.
 
 # Description
 - Main activity consist of 3 buttons. 
