@@ -8,4 +8,4 @@
 # Changing Functionality of Camera Button.
 You can change the functionality of camera opening button by changing package name in **MainActivity line 38**.
 # Preview
-- [Preview ScreenRec_20200331_015105.mp4](https://github.com/arshanwar/Second-Activity-Tutorial-Android-Studio/blob/master/ScreenRec_20200331_015105.mp40
+- ![Preview ScreenRec_20200331_015105.mp4](https://github.com/arshanwar/Second-Activity-Tutorial-Android-Studio/blob/master/ScreenRec_20200331_015105.mp40
