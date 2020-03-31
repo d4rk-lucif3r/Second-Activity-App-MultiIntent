@@ -6,3 +6,5 @@
 - 3 Button for opening google camera(through package also packge for gcam is different from other OEMs Camera APP)
 # Changing Functionality of Camera Button.
 You can change the functionality of camera opening button by changing package name in **MainActivity line 38**.
+#Preview
+- ScreenRec_20200331_015105.mp4
