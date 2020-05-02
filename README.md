@@ -12,4 +12,4 @@
 
 # Preview
 
--[@ScreenRec_20200331_015105.mp4](https://github.com/arshanwar/Second-Activity-Tutorial-Android-Studio/blob/master/ScreenRec_20200331_015105.mp4) for the Preview
+-![preview](https://github.com/arshanwar/Second-Activity-App-MultiIntent/blob/master/preview.gif) 
