@@ -1,4 +1,4 @@
-# SecondActivity  in Android-Studio by Arsh Anwar
+# SecondActivity  in Android-Studio by d4rk-lucif3r
 ![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square)
 - App with MultiActivity using different Intents.
 
